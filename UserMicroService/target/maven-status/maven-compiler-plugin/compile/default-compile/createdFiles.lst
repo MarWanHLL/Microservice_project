@@ -1,0 +1,6 @@
+esprit\edu\repositories\UserRepository.class
+esprit\edu\controllers\UserController.class
+esprit\edu\services\UserService.class
+esprit\edu\UserAuthApplication.class
+esprit\edu\entities\User.class
+esprit\edu\config\SecurityConfig.class
